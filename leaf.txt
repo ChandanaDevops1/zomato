@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 gthbfdbd
 gfd
 bre
@@ -10,4 +11,18 @@ d
 h
 d
 hr
+=======
+gthbfdbd
+gfd
+bre
+gr
+
+dgr
+
+d
+
+h
+d
+hr
+>>>>>>> dbed1d84b380411e3e25ab079de06808d297686b
 h
