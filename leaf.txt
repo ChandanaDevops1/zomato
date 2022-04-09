@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 gthbfdbd
 gfd
 bre
@@ -26,3 +27,20 @@ d
 hr
 >>>>>>> dbed1d84b380411e3e25ab079de06808d297686b
 h
+=======
+gthbfdbd
+gfdgmfgj
+gukfjtf
+hjfgjgf
+bre
+gr
+
+dgr
+
+d
+
+h
+d
+hr
+h
+>>>>>>> 6fcd9da964fcac285fe717b514bfb297d894c812
